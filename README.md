@@ -9,6 +9,7 @@ Usage :
 - Prérequis : JQuery (projet dgOnglets développé sous la v1.9.1)
 - Dans le fichier HTML, importer dgOnglets.js et dgOnglets.css
 - Démo :
+```html
 <!-- Un <div> conteneur pour gérer le menu, contenant des liens <a> avec un paramètre tabId faisant référence au <div> de contenu de l'onglet -->
 <div class="dg_tab_menu">
 	<a href="#" tabId="tab1" class="active">Menu de l'onglet 1</a>
@@ -23,3 +24,4 @@ Usage :
         Contenu de l'onglet 2
     </div>
 </div>
+```
